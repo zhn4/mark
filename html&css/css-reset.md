@@ -9,7 +9,7 @@ body, div, header, nav,
 article, footer, form, p, span,
 h1, h2, h3, h4, h5, h6,
 ul, ol, li, table, tr,
-th, td{
+th, td, input{
      margin: 0;
      padding: 0;
      word-break: break-all;
